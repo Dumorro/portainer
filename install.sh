@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Cores
 GREEN='\e[32m'
 YELLOW='\e[33m'
